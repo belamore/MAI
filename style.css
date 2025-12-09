@@ -11,3 +11,10 @@ canvas {
   align-items: center;
   margin: auto;
 }
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+
+}
